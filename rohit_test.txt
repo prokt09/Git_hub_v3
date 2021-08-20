@@ -7,9 +7,4 @@ SEcond edit
 eediting after SSh adding Bhai Jaldi a yahna tk 
 
 
-<<<<<<< HEAD
-change in oneplus
-=======
-
-tetsing main branch 
->>>>>>> 012b67345ecb4f0597db6f1c027d567ecd757d43
+change in Main File again 
