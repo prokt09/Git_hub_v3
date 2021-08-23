@@ -13,3 +13,5 @@ chnage in oneplus file again
 
 Learning reset and revert in GIT for rest making changes
 
+learning revert commit 1
+
