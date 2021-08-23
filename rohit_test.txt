@@ -7,8 +7,9 @@ SEcond edit
 eediting after SSh adding Bhai Jaldi a yahna tk 
 
 
-<<<<<<< HEAD
 change in Main File again 
 =======
 chnage in oneplus file again 
->>>>>>> 206f54664f4e59fd487c3b83a0d9ca242e52d356
+
+Learning reset and revert in GIT for rest making changes
+
